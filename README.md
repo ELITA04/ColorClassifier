@@ -1,7 +1,7 @@
 # Color Classifier
 
 Color Classifier is a internship assignment of Cloud Counselage.
-The main aim of this assignment is to get hands-on experience with tensorflow and images
+The assignment provided hands-on experience with tensorflow
 ## My approach
 * Webscraping images to create a dataset (drawback : corrupt images)
 * Creating a dataset using cv2
