@@ -19,6 +19,7 @@ I created images using cv2 where I create random colors
  ```
 
 Then I trained a neural network model using tensorflow 2.0 and saved the model
+
 **My method explained in the notebook ColorClassifer.ipynb**
  
  I have trained using 600 images and validated on 150 images
