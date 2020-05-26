@@ -26,7 +26,7 @@ Then I trained a neural network model using tensorflow 2.0 and saved the model
  
  Finally I wrote a script to predict Color of images in test dataset
  
- ***Store the images in testing folder and execute image_predict**
+ **Store the images in testing folder and execute image_predict**
  ```
  python image_predict.py
  ```
