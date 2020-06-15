@@ -3,6 +3,10 @@
 Color Classifier is an assignment of Cloud Counselage.
 The assignment provided hands-on experience with tensorflow
 
+**Link to saved model**
+
+https://drive.google.com/drive/folders/1pkK5S1rA1rjSYm_11GwzpmJLpbkrLpWF?usp=sharing
+
 ## My approach
 Initially I webscraped images from shutterstock, however while webscraping some images were corrupt and caused a bad prediction due to these images 
 
